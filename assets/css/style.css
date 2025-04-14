@@ -90,6 +90,18 @@
     color: white;
 }
 
+@media (max-width: 991.98px) {
+
+    .hero-section{
+        padding-top: 50px;
+        text-align: center;
+    }
+    .hero-section img{
+        padding-left: 50px;
+    }
+   
+}
+
 
 
 
