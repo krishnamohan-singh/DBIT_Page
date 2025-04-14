@@ -32,7 +32,7 @@
 
 
 .hero-section {
-    background: url('/img/background_banner.png') no-repeat center center/cover;
+    background: url('../img/background_banner.png') no-repeat center center/cover;
     position: relative;
     min-height: 100vh;
     color: #fff;
